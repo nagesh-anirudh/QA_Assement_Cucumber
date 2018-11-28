@@ -1,5 +1,5 @@
-Feature: Sample Cucumber JVM BDD test
-  Search Chercher Tech in Google and click first result
+Feature: Entering the invalid credentials in the opencart url
+  
 
 Scenario Outline: sample test for Opencart
   Given Opencart Url is been opened
